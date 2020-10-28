@@ -1,4 +1,4 @@
-package com.todofirebase;
+package pl.baldy.todoapp;
 
 import com.facebook.react.ReactActivity;
 
